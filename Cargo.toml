@@ -4,6 +4,7 @@ version = "0.1.0-alpha.1"
 edition = "2021"
 authors = ["Oguz Turkay <tyserract@gmail.com>"]
 description = "A reverse proxy, load balancer, and web server written in Rust"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
