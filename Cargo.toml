@@ -1,6 +1,6 @@
 [package]
 name = "invers"
-version = "0.0.1-alpha.1"
+version = "0.0.1-alpha.2"
 edition = "2021"
 authors = ["Oguz Turkay <tyserract@gmail.com>"]
 description = "A reverse proxy, load balancer, and web server written in Rust"
