@@ -1,10 +1,7 @@
 [package]
-name = "invers"
-version = "0.0.1-alpha.1"
+name = "invers-http"
+version = "0.1.0"
 edition = "2021"
-authors = ["Oguz Turkay <tyserract@gmail.com>"]
-description = "A reverse proxy, load balancer, and web server written in Rust"
-license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -12,6 +9,3 @@ license = "MIT"
 tokio = { version = "1.27.0", features = ["full"] }
 serde_json = "1.0.96"
 serde = { version = "1.0.160", features = ["derive"] }
-
-[dependencies.invers-http]
-path = "./invers-http"

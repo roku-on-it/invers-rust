@@ -1,0 +1,13 @@
+{
+  "websocket": {},
+  "http": {
+    "localhost": {
+      "listen_on_ports": [
+        8080,
+        8081
+      ],
+      "max_request_size": "4mb",
+      "redirect_to": "localhost:4000"
+    }
+  }
+}
